@@ -151,15 +151,6 @@ O arquivo [`assets/recursion_tree.png`](assets/recursion_tree.png) ilustra a **�
 
 ---
 
-## ✅ Testes rápidos
-
-- Listas com 1 e 2 elementos (casos base).
-- Sequência com números repetidos.
-- Números negativos e positivos.
-- Tamanho ímpar (a divisão funciona porque usamos `n//2` — a segunda metade cobre o restante).
-
----
-
 ## 📁 Estrutura do repositório
 
 ```
@@ -171,11 +162,3 @@ O arquivo [`assets/recursion_tree.png`](assets/recursion_tree.png) ilustra a **�
 ```
 
 ---
-
-## 💡 Observações
-
-- Para o avaliador visualizar: torne o repositório **público** e teste o link em **aba anônima** (Canvas).
-- Código escrito em **Python 3.10+** com **type hints** e `dataclass`.
-- A contagem de comparações é **retornada** junto com `min` e `max`, facilitando a validação empírica do crescimento linear.
-
-Boa avaliação! 🍀
